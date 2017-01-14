@@ -1,0 +1,6 @@
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\4\bin\Debug\4.exe.config
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\4\bin\Debug\4.exe
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\4\bin\Debug\4.pdb
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\4\obj\Debug\4.exe
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\4\obj\Debug\4.pdb
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\4\obj\Debug\4.csprojResolveAssemblyReference.cache

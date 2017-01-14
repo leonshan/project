@@ -1,0 +1,6 @@
+c:\users\leonshan\documents\visual studio 2015\Projects\hw2\hw2\bin\Debug\hw2.exe.config
+c:\users\leonshan\documents\visual studio 2015\Projects\hw2\hw2\bin\Debug\hw2.exe
+c:\users\leonshan\documents\visual studio 2015\Projects\hw2\hw2\bin\Debug\hw2.pdb
+c:\users\leonshan\documents\visual studio 2015\Projects\hw2\hw2\obj\Debug\hw2.csprojResolveAssemblyReference.cache
+c:\users\leonshan\documents\visual studio 2015\Projects\hw2\hw2\obj\Debug\hw2.exe
+c:\users\leonshan\documents\visual studio 2015\Projects\hw2\hw2\obj\Debug\hw2.pdb

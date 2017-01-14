@@ -1,0 +1,5 @@
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\5\bin\Debug\5.exe.config
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\5\bin\Debug\5.exe
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\5\bin\Debug\5.pdb
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\5\obj\Debug\5.exe
+c:\Users\leonshan\documents\visual studio 2015\Projects\hw2\5\obj\Debug\5.pdb
