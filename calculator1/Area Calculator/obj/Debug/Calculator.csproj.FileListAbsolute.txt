@@ -1,0 +1,5 @@
+c:\users\leonshan\documents\visual studio 2015\Projects\calculator1\Area Calculator\bin\Debug\Area Calculator.exe.config
+c:\users\leonshan\documents\visual studio 2015\Projects\calculator1\Area Calculator\bin\Debug\Area Calculator.exe
+c:\users\leonshan\documents\visual studio 2015\Projects\calculator1\Area Calculator\bin\Debug\Area Calculator.pdb
+c:\users\leonshan\documents\visual studio 2015\Projects\calculator1\Area Calculator\obj\Debug\Area Calculator.exe
+c:\users\leonshan\documents\visual studio 2015\Projects\calculator1\Area Calculator\obj\Debug\Area Calculator.pdb
